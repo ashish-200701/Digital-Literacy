@@ -1,0 +1,38 @@
+Staying safe in the digital world is just as important as staying safe on campus. 
+For college students in India, the risks range from academic phishing to sophisticated UPI scams.
+Here is your Stay Safe Online checklist, tailored for the Indian digital landscape:
+
+The Ultimate Digital Safety Checklist
+
+1. Secure Your UPI Apps with Biometrics Beyond your 4 or 6-digit UPI PIN, enable fingerprint or face ID locks on apps like PhonePe, Google Pay, or BHIM. 
+This adds a crucial layer of security if your phone is snatched while unlocked.
+
+2. Remember: PIN is ONLY for Sending Money Never enter your UPI PIN to receive money. 
+Scammers often send "Collect Requests" or QR codes claiming you’ve won a scholarship or reward. 
+Scanning a QR code or entering a PIN always deducts money from your account.
+
+3. Use "Edu" Email Aliases for Third-Party Sites Avoid using your primary student email or personal Gmail to sign up for random "free" PDF converters or study material sites. 
+Use temporary email services or a secondary "spam" account to keep your main credentials safe from data breaches.
+
+4. Beware of 'Digital Arrest' Scams If you receive a Skype call or WhatsApp message from someone claiming to be from the CBI, Narcotics Department, or Mumbai Police saying there is a "problem with your Aadhaar" or a "parcel with illegal goods," hang up immediately. 
+Law enforcement in India will never "arrest" you over a video call.
+
+5. Enable Two-Factor Authentication (2FA) on WhatsApp WhatsApp hijacking is common. Go to Settings > Account > Two-step verification and set a PIN. This prevents hackers from logging into your account even if they intercept your SMS OTP.
+
+6. Audit Your Social Media 'Tags' and 'Mentions' Set your Instagram and Facebook profiles to "Private" and enable "Tag Review."
+Scammers often tag students in "Work from Home" or "Crypto Investment" posts to lure your friends into thinking you endorse the scam.
+
+7. Avoid Public Wi-Fi for Sensitive Tasks College canteens or railway stations often have free Wi-Fi. 
+Never log into your bank account or student portal using these networks. If you must use them, use a reputable VPN to encrypt your data.
+
+8. Verify "Part-Time Job" Offers on WhatsApp/Telegram Be skeptical of "Like YouTube videos and earn ₹5,000/day" offers. 
+These are "Task Scams" designed to build trust before asking you to "invest" money to unlock higher earnings.
+
+🚨 How to Report Cybercrime
+If you or someone you know has been scammed, speed is critical—especially for financial fraud where the "Golden Hour" (the first hour after the fraud) is the best chance to freeze the funds.
+
+🌐 Online Portal: cybercrime.gov.in
+
+📞 National Helpline: 1930 (Available 24/7)
+
+Pro-Tip: If you lose money via UPI, call 1930 immediately. The operators work with banks to block the transaction in real-time before the scammer can withdraw the cash.
